@@ -57,3 +57,8 @@ Crea un nuevo apuntador móvil a una confirmación de cambios, *commit*.
 ### git checkout
 
 Mueve el apuntador *HEAD* a la rama especificada.
+
+### git merge
+
+- *fast forward* mueve el apuntador hacia adelante, ya que la confirmación apuntada en la rama donde has fusionado estaba directamente arriba respecto a la confirmación actual.
+
