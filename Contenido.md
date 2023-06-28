@@ -34,6 +34,10 @@ Incluye y da seguimiento a un archivo.
 
 Confirma los cambios e incluye al archivo en una nuevar versión del repositorio.
 
+### git log
+
+Lista los commits hechos en un repositorio en orden cronológico inverso.
+
 **Comandos ejecutados pendientes de descripción.**
  - git remote add alias link
  - git branch -M main
