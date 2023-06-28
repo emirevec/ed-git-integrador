@@ -48,7 +48,12 @@ Agrega un nuevo remoto a nuestro repositorio Git.
 
 Envía al repositorio remoto el historial de confirmaciones.
 
-**Comandos ejecutados pendientes de descripción.**
+### git branch
 
- - git branch -M main
- - git push remote branch
+Crea un nuevo apuntador móvil a una confirmación de cambios, *commit*.
+
+> **HEAD** es el apuntador a la rama local en la que estés en ese momento.
+
+### git checkout
+
+Mueve el apuntador *HEAD* a la rama especificada.
