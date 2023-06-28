@@ -38,7 +38,17 @@ Confirma los cambios e incluye al archivo en una nuevar versión del repositorio
 
 Lista los commits hechos en un repositorio en orden cronológico inverso.
 
+### git remote 
+
+Agrega un nuevo remoto a nuestro repositorio Git.
+
+> Se vale de las propiedades "add <alias> <link_al_repositorio_remoto>".
+
+### git push
+
+Envía al repositorio remoto el historial de confirmaciones.
+
 **Comandos ejecutados pendientes de descripción.**
- - git remote add alias link
+
  - git branch -M main
  - git push remote branch
