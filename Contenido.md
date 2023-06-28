@@ -7,17 +7,17 @@ Comandos aplicados al momento:
 Permite obtener y configurar variables que controlan aspectos de cómo Git se va a ver y cómo va a operar.
 
 > Niveles de configurarción:
-> *Local. 
-> *Global. 
-> *System.
+> -Local. 
+> -Global. 
+> -System.
 
 ### git init
 Inicia el control de versiones, crea en el directorio ejecutado el subdirectorio llamado ".git".  
 
 > Estados de los archivos de un repositorio:
-> *Committed. 
-> *Modified. 
-> *Staged.
+> -Committed. 
+> -Modified. 
+> -Staged.
 
 ### git status
 
