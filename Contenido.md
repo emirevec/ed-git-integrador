@@ -32,7 +32,7 @@ Incluye y da seguimiento a un archivo.
 
 ### git commit
 
-Confirma los cambios e incluye al archivo en una nuevar versión del repositorio.
+Confirma los cambios e incluye al archivo en una nueva versión del repositorio.
 
 ### git log
 
