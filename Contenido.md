@@ -63,3 +63,13 @@ Mueve el apuntador *HEAD* a la rama especificada.
 - *fast forward* mueve el apuntador hacia adelante, ya que la confirmación apuntada en la rama donde has fusionado estaba directamente arriba respecto a la confirmación actual.
 
 - *fusión confirmada* crea una nueva versión del repositorio a tres bandas con su correspondiente confirmación de cambios, *commit*, que apunta este último.
+
+### git clone
+
+Obtiene una copia de un repositorio Git existente.
+
+> Se vale de las propiedades "< url > < nombre_del_directorio_nuevo >".
+
+### git fork
+
+Crea una copia entera del proyecto en nuestra cuenta de usuario que quedará almacenada en nuestro espacio.
