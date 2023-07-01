@@ -73,3 +73,7 @@ Obtiene una copia de un repositorio Git existente.
 ### git fork
 
 Crea una copia entera del proyecto en nuestra cuenta de usuario que quedará almacenada en nuestro espacio.
+
+### git rebase
+
+Abandona las confirmaciones de cambio ya creadas y crea nuevas, aplicalos cambios confirmados de un branch sobre otro en vez de fusionar a tres bandas.
