@@ -81,3 +81,7 @@ Abandona las confirmaciones de cambio ya creadas y crea nuevas, aplica los cambi
 ### git cherry-pick
 
 Agrega una confirmación de cambios específica de otra rama.
+
+### git stash
+
+Toma las modificaciones de archivos en seguimiento y cambios ya listos que forman parte del stage area, y los guarda en una pila de cambios sin terminar.
