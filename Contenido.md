@@ -76,4 +76,12 @@ Crea una copia entera del proyecto en nuestra cuenta de usuario que quedará alm
 
 ### git rebase
 
-Abandona las confirmaciones de cambio ya creadas y crea nuevas, aplicalos cambios confirmados de un branch sobre otro en vez de fusionar a tres bandas.
+Abandona las confirmaciones de cambio ya creadas y crea nuevas, aplica los cambios confirmados de un branch sobre otro en vez de fusionar a tres bandas.
+
+### git cherry-pick
+
+Agrega una confirmación de cambios específica de otra rama.
+
+### git stash
+
+Toma las modificaciones de archivos en seguimiento y cambios ya listos que forman parte del stage area, y los guarda en una pila de cambios sin terminar.
