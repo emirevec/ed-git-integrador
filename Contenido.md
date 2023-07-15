@@ -85,3 +85,7 @@ Agrega una confirmación de cambios específica de otra rama.
 ### git stash
 
 Toma las modificaciones de archivos en seguimiento y cambios ya listos que forman parte del stage area, y los guarda en una pila de cambios sin terminar.
+
+### git bisect
+
+Permite “automatizar” el trabajo de verificación de commits y realizar una búsqueda binaria sobre nuestro historial de cambios.  
