@@ -89,3 +89,11 @@ Toma las modificaciones de archivos en seguimiento y cambios ya listos que forma
 ### git bisect
 
 Permite “automatizar” el trabajo de verificación de commits y realizar una búsqueda binaria sobre nuestro historial de cambios.  
+
+### git tag
+
+Crea una referencia al hash de un commit.
+
+- *Anotados*, son referencias ideales para establecer lanzamientos oficiales de una aplicación, ya que se pueden subir al repositorio remoto.
+
+- *No anotados*, no son enviados al momento de sincronización con el repositorio remoto.  
