@@ -114,3 +114,7 @@ Flags que pueden utilizarse:
 
 - *--hard* para que todos los cambios que se hayan hecho durante ese tiempo no solo no formen parte del Stage Area sino que no puedan a verse tampoco en los archivos actuales, es decir nuestro Working Area.
 
+### git blame
+
+Permite saber el último commit en el que fue introducida una línea específica de un archivo.
+
