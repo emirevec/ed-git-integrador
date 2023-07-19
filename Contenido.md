@@ -118,3 +118,7 @@ Flags que pueden utilizarse:
 
 Permite saber el último commit en el que fue introducida una línea específica de un archivo.
 
+### git grep
+
+Permite realizar varios tipos de búsqueda a través de nuestros repositorios.
+
