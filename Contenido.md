@@ -100,11 +100,7 @@ Crea una referencia al hash de un commit.
 
 ### git revert
 
-Crea una referencia al hash de un commit.
 
-- *Anotados*, son referencias ideales para establecer lanzamientos oficiales de una aplicación, ya que se pueden subir al repositorio remoto.
-
-- *No anotados*, no son enviados al momento de sincronización con el repositorio remoto.  
 
 ### git reset
 
