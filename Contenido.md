@@ -105,3 +105,16 @@ Crea una referencia al hash de un commit.
 - *Anotados*, son referencias ideales para establecer lanzamientos oficiales de una aplicación, ya que se pueden subir al repositorio remoto.
 
 - *No anotados*, no son enviados al momento de sincronización con el repositorio remoto.  
+
+### git reset
+
+Ordena nuestro historial de cambios y borra aquellos commits que estuvieron de más, en los casos en que el repositorio local no se haya sincronizado con el repositorio remoto.
+
+Flags que pueden utilizarse:
+
+- *--soft* para que los cambios que hemos intentado resetear aún se mantengan visibles, pero ya no formen parte de ningún commit en nuestro branch.
+
+- *--mixed* para que los cambios también se sigan manteniendo visibles en nuestros archivos pero sin formar parte del stage area.
+
+- *--hard* para que todos los cambios que se hayan hecho durante ese tiempo no solo no formen parte del Stage Area sino que no puedan a verse tampoco en los archivos actuales, es decir nuestro Working Area.
+
