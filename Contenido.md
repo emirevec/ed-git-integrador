@@ -100,7 +100,7 @@ Crea una referencia al hash de un commit.
 
 ### git revert
 
-
+Permite elegir uno o un conjunto de commits y revertir los cambios que ellos implementan.
 
 ### git reset
 
