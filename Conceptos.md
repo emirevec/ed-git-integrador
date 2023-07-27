@@ -7,8 +7,16 @@ Software de control de versiones diseñado por Linus Torvalds.
 ### Areas de Git
 
 - #### Working directory
+
+Corresponde a la carpeta donde inicializamos el respositorio, es tambien el lugar donde vamos a crear, editar y eliminar los diferentes archivos y carpetas del proyecto.
+
 - #### Stagin area
+
+El area de control de cambios es la encargada de identificar los archivos a los que vamos a realizarle seguimiento, tambien es donde se realizan las capturas de codigo.
+
 - #### Repository (Local/Remote)
+
+El almacen de cambios es donde se encuentra las capturas confirmadas, en archivos BLOB (Binary Large Object), a las que podemos acceder en cualquier momento para visualizar los cambios.
 
 ### Flujos de trabajo
 
